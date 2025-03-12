@@ -6,17 +6,16 @@
 
 # Setup
 
-- [ ] Setup your environment
-  - [ ] Install Node.js [Download](https://nodejs.org/en/)
-  - [ ] Create your first React app
-  - [ ] Create a folder for you React app
-  - [ ] Open terminal and navigate to the new folder
-  - [ ] Run the following in your terminal
+- [x] Setup your environment
+  - [x] Install Node.js [Download](https://nodejs.org/en/)
+  - [x] Create your first React app
+  - [x] Create a folder for you React app
+  - [x] Open terminal and navigate to the new folder
+  - [x] Run the following in your terminal
     ```js
-    npx create-react-app my-app
+    npm create vite@latest my-app -- --template react
     ```
-  - [ ] This will first ask for your permission to temporarily install create-react-app and it's associated packages. Once completed, change directories into your new app ("my-app" or whatever you've chosen to call it): cd my-app. 
-  - [ ] Start your React app
+  - [x] Start your React app
     ```js
-    npm start
+    npm run dev
     ```
