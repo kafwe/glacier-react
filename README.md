@@ -62,7 +62,7 @@ After going through the practical, you should be familiar with the following con
 
 ## **Intro to React**
 
-- [ ] [Tutorial: Intro to React](https://beta.reactjs.org/learn)
+- [x] [Tutorial: Intro to React](https://beta.reactjs.org/learn)
 
 # **Advanced React Tutorial**
 
